@@ -1,4 +1,4 @@
-import { motion } from "motion/react";
+import { motion } from "framer-motion";
 import Menu from "lucide-react/dist/esm/icons/menu.js";
 import X from "lucide-react/dist/esm/icons/x.js";
 
