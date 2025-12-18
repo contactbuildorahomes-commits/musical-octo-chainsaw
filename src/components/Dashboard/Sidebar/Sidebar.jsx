@@ -1,4 +1,4 @@
-import { motion, AnimatePresence } from "motion/react";
+import { motion, AnimatePresence } from "framer-motion";
 import { SidebarLogo } from "./SidebarLogo";
 import { SidebarWelcome } from "./SidebarWelcome";
 import { SidebarTabs } from "./SidebarTabs";
